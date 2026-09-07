@@ -1,0 +1,21 @@
+{
+  "name": "promo-video-studio",
+  "version": "1.0.0",
+  "description": "Студия создания рекламных видеороликов для бизнеса и услуг с гарантией результата за 24 часа",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve .",
+    "deploy": "npx vercel"
+  },
+  "keywords": [
+    "video-production",
+    "reels",
+    "tiktok",
+    "promo-video",
+    "advertising",
+    "business"
+  ],
+  "author": "PROMO VIDEO STUDIO (+380962535610)",
+  "license": "MIT"
+}
